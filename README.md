@@ -3,5 +3,5 @@ Optimized "content" and "benefits" sections.
 
 
 
-![Screenshot|30%](./assets/Screenshots/Benefits_corrected.jpg)
-![Screenshot|30%](./assets/Screenshots/content_corrected.png)
+![Screenshot|400x400](./assets/Screenshots/Benefits_corrected.jpg)
+![Screenshot|400x400](./assets/Screenshots/content_corrected.png)
