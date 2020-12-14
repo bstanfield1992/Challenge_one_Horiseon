@@ -1,1 +1,1 @@
-![Screenshot](./assets/images/ChallengeSS-1)
+![Screenshot](./assets/images/ChallengeSS-1.png)
