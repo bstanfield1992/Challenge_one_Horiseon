@@ -1,3 +1,7 @@
-![Screenshot](./assets/images/ChallengeSS-1.png)
-![Screenshot](./assets/images/ChallengeSS-2.png)
-![Screenshot](./assets/images/ChallengeSS-3.png)
+Optimized "content" and "benefits" sections.
+
+
+
+
+![Screenshot](./assets/images/screenshots/Benefits_corrected.png)
+![screenshot](./assets/images/screenshots/content_corrected.png)
